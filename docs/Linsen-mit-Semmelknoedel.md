@@ -29,6 +29,7 @@
 > Weitere Infos   
 [Linsen einweichen: Einweichzeit und worauf du achten solltest](https://utopia.de/ratgeber/linsen-einweichen-einweichzeit-und-worauf-du-achten-solltest/){:target="_blank"}    
 [Linsen kochen – Alles was man wissen muss!](https://www.wir-essen-gesund.de/linsen-kochen/){:target="_blank"}    
+[Linsen zubereiten](https://de.wikihow.com/Linsen-zubereiten){:target="_blank"}    
 
 ## Zubereitung Linsen
 Zwiebel in einer Pfanne anrösten.   
