@@ -11,6 +11,7 @@ Evt. Creme fraiche oder Schmand und etwas geriebenen Käse zugeben und leicht k�
 Die Nudeln abgießen und mit kaltem Wasser abschrecken. Mit der Soße servieren, eventuell noch etwas Parmesan und frischen Basilikum darüberstreuen.
 
 ## 2 Portionen
+
 Menge | Zutaten
 --- | ---
 500 g | Spaghetti
