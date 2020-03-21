@@ -1,4 +1,4 @@
-# Spaghett mit Tomatensauce
+# Spaghetti mit Tomatensauce
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Spaghetti_al_Pomodoro.JPG" height="200" alt="Spaghetti_al_Pomodoro">   
 
@@ -12,7 +12,7 @@ Die Nudeln abgießen und mit kaltem Wasser abschrecken. Mit der Soße servieren,
 
 ## 2 Portionen
 | Menge | Zutaten |
-| :--- | :--- |
+| --- | --- |
 | 500 g | Spaghetti |
 | 1 Glas | passierte Tomaten |
 | | Salz und Pfeffer |
