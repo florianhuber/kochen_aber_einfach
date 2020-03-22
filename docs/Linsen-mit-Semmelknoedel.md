@@ -84,6 +84,6 @@ Menge | Zutaten
 500 g | Semmelwürfel
 250 ml | Milch
 250 g | Mehl
-| 1 Ei
+2 | Eier
 | Prise Salz
 | Petersilie
