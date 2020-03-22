@@ -26,19 +26,20 @@
  </li>
 </ul>
 
-> Weitere Infos   
+### Weitere Infos   
 [Linsen einweichen: Einweichzeit und worauf du achten solltest](https://utopia.de/ratgeber/linsen-einweichen-einweichzeit-und-worauf-du-achten-solltest/){:target="_blank"}    
 [Linsen kochen – Alles was man wissen muss!](https://www.wir-essen-gesund.de/linsen-kochen/){:target="_blank"}    
 [Linsen zubereiten](https://de.wikihow.com/Linsen-zubereiten){:target="_blank"}    
 
-## Zubereitung Linsen
+## Tipps und Zubereitung Linsen
 Zwiebel in einer Pfanne anrösten.   
-Linsen und Gewürze hinzufügen und mit dem Kochwasser oder Suppe aufgießen.   
+Bei Bedarf eine Einbrenn zubereiten.    
+Linsen und Gewürze hinzufügen und mit dem Kochwasser aufgießen.  
 Ohne Deckel kochen.   
-Die Linsen sollten im Wasser bei mittlerer oder niedriger Stufe köcheln.      
+Die Linsen sollten im Wasser bei mittlerer oder niedriger Stufe etwa 20 Minuten köcheln. Nun Salz und/oder Suppenwürze hinzufügen. Solange auf niedrigster Stufe ziehen lassen, bis Linsen weich genug sind.   
 Wenn nötig, während des Kochens etwas Flüssigkeit hinzufügen, aber nur soviel, dass die Linsen knapp bedeckt sind.
 Wer die Linsen gern etwas knackig mag, kann sie mit etwas Salz kochen.   
-Ggf. mit Rahm verfeinern.   
+Ggf. mit Rahm, Lorbeerblatt und/oder Essig verfeinern.   
 
 
 ###  Kochzeit
@@ -50,7 +51,7 @@ Ggf. mit Rahm verfeinern.
 Menge | Zutaten
 --- | ---
 500 ml | Kochwasser
-1 Tasse (250 g) | getrocknete Tellerlinsen (Einweichen: siehe oben)
+1 Tasse (250 g) | eingeweichte Tellerlinsen (Einweichen: siehe oben) oder Linsen aus der Dose
 | 1 Zwiebel
 | Salz
 | Pfeffer
@@ -59,11 +60,22 @@ Menge | Zutaten
 
 
 ## Zubereitung Semmelknödel
-Die Semmewlwürfel in eine Schüssel geben. Mehl, Ei, Milch, Salz und Petersilie hinzufügen. Gut verrühren und für ca. 8-10 Minuten ziehen lassen.   
-Evt. mit Suppenwürze verfeinern.   
+Die Semmewlwürfel in eine Schüssel geben. Mehl, Ei, Milch, Petersilie hinzufügen. Gut verrühren und 20-30 Minuten ziehen lassen und mit Salz und/oder Suppenwürze abschmecken.   
+Ist die Masse zu weich etwas Mehl zugeben.   
 In einem Topf Wasser zum Kochen bringen, salzen.   
 Mit feuchten Händen Knödel formen. Die Knödel in das Salzwasser legen.   
-Temperatur reduzieren und die Knödel ca. 12-15 Min. garen.   
+Temperatur reduzieren und die Knödel ca. 12-15 Min. ohne Deckel garen.   
+
+### Tipps zur Zubereitung der Semmelknödel
+Damit die Knödel beim Kochen nicht auseinandergehen, unbedingt den Knödelteig gut zusammendrücken und zu einem runden Knödel formen.
+Knödel im weiten Topf ohne Deckel in Salzwasser kochen.    
+Die Knödel langsam kochen, leicht wallend.    
+Zu Beginn der Kochzeit die Knödel eventuell vom Topfboden leicht mit einem Kochlöffel lösen, um ein Festkleben zu verhindern.    
+Die Knödel sind fertig, wenn diese an der Wasseroberfläche „tanzen“.   
+
+### Weitere Infos   
+[So gelingen Knödel einfach](https://www.issgesund.at/gesundkochen/tipsundtricks/sogelingenknoedeleinfach.html){:target="_blank"}    
+
 
 ## Zutaten für 4 Portionen Knödel
 
